@@ -1,0 +1,6 @@
+@All Cc @Chị Diệp Phó Giám Đốc 
+Sương xin điều chỉnh lại quy trình chốt Chi phí với kế toán như sau:
+- PKD gửi Thông báo+danh muc và danh sách + số hợp đồng của tên đơn vị
+- Kế toán chốt bảng Cp xong gửi lại KD
+- KD không gửi bất kì file dấu "x" chi tiết nào cho kế toán, chỉ gửi lại đúng cái bảng của kế toán chốt nha và chốt con số cần xuất hoá đơn hoặc không lấy hoá đơn
+Mn thống nhất như vậy để làm việc sao này nha.
